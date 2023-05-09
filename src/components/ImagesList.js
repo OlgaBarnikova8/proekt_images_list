@@ -22,7 +22,7 @@ const ImagesList = () => {
     
 
     if (isLoading) {
-        return <p>Loading...</p>
+        return <p>Loading...!</p>
     }
 
     const handleClick = () => {
